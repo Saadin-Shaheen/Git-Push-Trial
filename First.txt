@@ -1,1 +1,2 @@
-Experiment 1
+Experiment 1: Initializing Git repository
+Experiment 3: Stashing
