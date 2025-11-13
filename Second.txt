@@ -1,2 +1,2 @@
-Experiment 2
+Experiment 2: Merging
 Experiment 5: Rebase Commands
